@@ -2,6 +2,8 @@
 
 Ce projet est le résultat du suivi d'un tutoriel, visant à découvrir et apprendre les bases du react.
 
+Le but de ce site est d'afficher une liste de pays(drapeau, nom, population, ...) avec un filtre.
+
 Dans ce projet j'ai acquis les compétences suivantes :
 - Créer un projet react
 - Utiliser les composants
